@@ -2,8 +2,9 @@
 
 Clone da interface do PicPay desenvolvida em ReactNative utilizando Expo.
 Créditos aos vídeos do `Mateus Silva`:
-    - no **YouTube** :video_camera: [https://www.youtube.com/channel/UCNckxUYl117w3hfgoj3DbWg]
-    - e no **GitHub** [Matheus Silva](https://github.com/maateusilva/)
+    
+    - no **YouTube** :video_camera: https://www.youtube.com/channel/UCNckxUYl117w3hfgoj3DbWg
+    - e no **< >** **GitHub** [Matheus Silva](https://github.com/maateusilva/)
 
 # Instalação 
 Você precisará ter apenas o NodeJS instalado na sua máquina, e após isso, clonar este repositório:
