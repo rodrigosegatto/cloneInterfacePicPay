@@ -4,6 +4,7 @@ import {Wrapper, Header, BalanceContainer, BalanceTitle, Balance, Container} fro
 
 import Suggestions from '../../components/Suggestions';
 import Activities from '../../components/Activities';
+import Tips from '../../components/Tips';
 
 export default function Home () {
      return <Wrapper>
@@ -19,6 +20,7 @@ export default function Home () {
 
                <Suggestions />
                <Activities />
+               <Tips />
           </Container>
      </Wrapper>;
 }
