@@ -1,11 +1,10 @@
 {
   "expo": {
-    "name": "picpay",
+    "name": "PicPay",
     "slug": "picpay",
     "platforms": [
       "ios",
-      "android",
-      "web"
+      "android"
     ],
     "version": "1.0.0",
     "orientation": "portrait",
@@ -13,7 +12,7 @@
     "splash": {
       "image": "./assets/splash.png",
       "resizeMode": "contain",
-      "backgroundColor": "#ffffff"
+      "backgroundColor": "#21c25e"
     },
     "updates": {
       "fallbackToCacheTimeout": 0
@@ -22,7 +21,11 @@
       "**/*"
     ],
     "ios": {
-      "supportsTablet": true
+      "supportsTablet": true,
+      "bundleIdentifier": "com.rodrigosegatto.clonepicpay"
+    },
+    "android": {
+      "package": "com.rodrigosegatto.clonepicpay"
     }
   }
 }
